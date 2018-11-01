@@ -1,6 +1,6 @@
 <h1><u>
 Members
-</u><\h1>
+</u></h1>
 <p>
 Jakob Garricks: A01027987
 Nam Tran:
