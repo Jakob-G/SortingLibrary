@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="First-maven-project" target="1.7" />
+      <module name="First-maven-project" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
