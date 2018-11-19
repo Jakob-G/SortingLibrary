@@ -1,2 +1,2 @@
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.jakob-g/sortinglibrary/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.jakob-g/sortinglibrary)
+https://maven-badges.herokuapp.com/maven-central/Jakob-G/SortingLibrary/badge.(svg|png)?style={style}
 # SortingLibrary
