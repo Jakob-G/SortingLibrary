@@ -2,18 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3954bb7-40dd-422e-bdfb-3f123a1272f9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/First-maven-project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/First-maven-project.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/First-maven-project-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jakobgarricks/demo/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jakobgarricks/demo/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SortingLibrary-1.0-snapshot-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/SortingLibrary-1.0-snapshot-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SortingLibrary-1.0-snapshot-javadoc.jar.asc" beforeDir="false" afterPath="$PROJECT_DIR$/target/SortingLibrary-1.0-snapshot-javadoc.jar.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SortingLibrary-1.0-snapshot-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/SortingLibrary-1.0-snapshot-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SortingLibrary-1.0-snapshot-sources.jar.asc" beforeDir="false" afterPath="$PROJECT_DIR$/target/SortingLibrary-1.0-snapshot-sources.jar.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SortingLibrary-1.0-snapshot.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/SortingLibrary-1.0-snapshot.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SortingLibrary-1.0-snapshot.jar.asc" beforeDir="false" afterPath="$PROJECT_DIR$/target/SortingLibrary-1.0-snapshot.jar.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SortingLibrary-1.0-snapshot.pom.asc" beforeDir="false" afterPath="$PROJECT_DIR$/target/SortingLibrary-1.0-snapshot.pom.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/allclasses-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/allclasses-noframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/allclasses-noframe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/com/jakobgarricks/demo/App.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/com/jakobgarricks/demo/App.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/com/jakobgarricks/demo/class-use/App.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/com/jakobgarricks/demo/class-use/App.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/com/jakobgarricks/demo/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/com/jakobgarricks/demo/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/com/jakobgarricks/demo/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/com/jakobgarricks/demo/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/com/jakobgarricks/demo/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/com/jakobgarricks/demo/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/com/jakobgarricks/demo/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/com/jakobgarricks/demo/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/constant-values.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/deprecated-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/index-all.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/index-all.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/nexus-staging/staging/7edbe315063867/.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/nexus-staging/staging/7edbe315063867/com/github/Jakob_G/SortingLibrary/1.0-snapshot/SortingLibrary-1.0-snapshot-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/nexus-staging/staging/7edbe315063867/com/github/Jakob_G/SortingLibrary/1.0-snapshot/SortingLibrary-1.0-snapshot-javadoc.jar.asc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/nexus-staging/staging/7edbe315063867/com/github/Jakob_G/SortingLibrary/1.0-snapshot/SortingLibrary-1.0-snapshot-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/nexus-staging/staging/7edbe315063867/com/github/Jakob_G/SortingLibrary/1.0-snapshot/SortingLibrary-1.0-snapshot-sources.jar.asc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/nexus-staging/staging/7edbe315063867/com/github/Jakob_G/SortingLibrary/1.0-snapshot/SortingLibrary-1.0-snapshot.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/nexus-staging/staging/7edbe315063867/com/github/Jakob_G/SortingLibrary/1.0-snapshot/SortingLibrary-1.0-snapshot.jar.asc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/nexus-staging/staging/7edbe315063867/com/github/Jakob_G/SortingLibrary/1.0-snapshot/SortingLibrary-1.0-snapshot.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/nexus-staging/staging/7edbe315063867/com/github/Jakob_G/SortingLibrary/1.0-snapshot/SortingLibrary-1.0-snapshot.pom.asc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/nexus-staging/staging/7edbe315063867/com/github/Jakob_G/SortingLibrary/maven-metadata-nexus.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.jakobgarricks.demo.AppTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.jakobgarricks.demo.AppTest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.jakobgarricks.demo.AppTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.jakobgarricks.demo.AppTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/jakobgarricks/demo/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/jakobgarricks/demo/AppTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,14 +75,14 @@
         <counts>
           <entry key="java" value="16" />
           <entry key="test" value="5" />
-          <entry key="xml" value="450" />
+          <entry key="xml" value="454" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="16" />
           <entry key="PLAIN_TEXT" value="5" />
-          <entry key="XML" value="450" />
+          <entry key="XML" value="454" />
         </counts>
       </usages-collector>
     </session>
@@ -90,8 +113,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7">
-              <caret line="53" column="42" selection-start-line="53" selection-start-column="42" selection-end-line="53" selection-end-column="42" />
+            <state relative-caret-position="204">
+              <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -139,8 +162,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/test/java/com/jakobgarricks/demo/AppTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/jakobgarricks/demo/test" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="C:/apache-maven-3.6.0/conf/settings.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -247,6 +270,11 @@
             </path>
             <path>
               <item name="First-maven-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="First-maven-project" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="First-maven-project" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -256,7 +284,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542608779831" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542610081451" />
     <property name="last_opened_file_path" value="C:/apache-maven-3.6.0/conf/settings.xml" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
@@ -379,7 +407,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26626325" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26626325" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -404,7 +432,7 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info active="true" anchor="right" id="Maven Projects" order="7" visible="true" weight="0.16490166" />
+      <window_info anchor="right" id="Maven Projects" order="7" visible="true" weight="0.16490166" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -444,8 +472,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7">
-          <caret line="53" column="42" selection-start-line="53" selection-start-column="42" selection-end-line="53" selection-end-column="42" />
+        <state relative-caret-position="204">
+          <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
         </state>
       </provider>
     </entry>
