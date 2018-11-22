@@ -2,79 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22d487b3-c451-411e-b69a-02000efdc8d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/jakob_3g12ckh.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/com_github_Jakob_G_SortingLibrary_SortingLibrary_1_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jakobgarricks/CountingSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jakobgarricks/Sorter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jakobgarricks/StringSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jakobgarricks/demo/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/jakobgarricks/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/jakobgarricks/demo/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Sorting-1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SortingLibrary-1.0.0-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SortingLibrary-1.0.0-javadoc.jar.asc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SortingLibrary-1.0.0-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SortingLibrary-1.0.0-sources.jar.asc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SortingLibrary-1.0.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SortingLibrary-1.0.0.jar.asc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SortingLibrary-1.0.0.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SortingLibrary-1.0.0.pom.asc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/apidocs/allclasses-frame.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/apidocs/allclasses-noframe.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/apidocs/com/jakobgarricks/CountingSort.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/apidocs/com/jakobgarricks/Sorter.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/apidocs/com/jakobgarricks/StringSort.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/apidocs/com/jakobgarricks/class-use/CountingSort.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/apidocs/com/jakobgarricks/class-use/Sorter.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/apidocs/com/jakobgarricks/class-use/StringSort.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/apidocs/com/jakobgarricks/demo/App.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/apidocs/com/jakobgarricks/demo/class-use/App.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/apidocs/com/jakobgarricks/demo/package-frame.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/apidocs/com/jakobgarricks/demo/package-summary.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/apidocs/com/jakobgarricks/demo/package-tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/apidocs/com/jakobgarricks/demo/package-use.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/apidocs/com/jakobgarricks/package-frame.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/apidocs/com/jakobgarricks/package-summary.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/apidocs/com/jakobgarricks/package-tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/apidocs/com/jakobgarricks/package-use.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/apidocs/constant-values.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/apidocs/deprecated-list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/apidocs/help-doc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/apidocs/index-all.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/apidocs/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/apidocs/overview-frame.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/apidocs/overview-summary.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/apidocs/overview-tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/apidocs/package-list" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/apidocs/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/apidocs/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/jakobgarricks/CountingSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/jakobgarricks/Sorter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/jakobgarricks/StringSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/jakobgarricks/demo/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/javadoc-bundle-options/javadoc-options-javadoc-resources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/javadoc-bundle-options/package-list" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.jakobgarricks.Test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.jakobgarricks.demo.AppTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/com.jakobgarricks.Test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/com.jakobgarricks.demo.AppTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/jakobgarricks/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/jakobgarricks/demo/AppTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Project/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CountingSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/QuickSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/CountingSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/QuickSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/numbers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/numbers.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Test.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -154,8 +82,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="11" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+            <state relative-caret-position="122">
+              <caret line="122" column="42" selection-start-line="122" selection-start-column="36" selection-end-line="122" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -297,7 +225,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542913828777" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542913830350" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/First-maven-project" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
@@ -513,8 +441,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="11" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+        <state relative-caret-position="122">
+          <caret line="122" column="42" selection-start-line="122" selection-start-column="36" selection-end-line="122" selection-end-column="42" />
         </state>
       </provider>
     </entry>
