@@ -3,7 +3,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.github.Jakob-G.SortingLibrary</groupId>
+    <groupId>com.github.Jakob-G.Sorting-Library</groupId>
     <artifactId>SortingLibrary</artifactId>
     <version>1.0.1</version>
 
@@ -127,7 +127,7 @@
     <scm>
         <connection>scm:git:git://github.com/Jakob-G/Sorting-Library.git</connection>
         <developerConnection>scm:git:ssh://github.com/Jakob-G/Sorting-Library.git</developerConnection>
-        <url>https://github.com/Jakob-G/SortingLibrary/tree/master</url>
+        <url>https://github.com/Jakob-G/Sorting-Library/tree/master/Sorting</url>
     </scm>
 
 
